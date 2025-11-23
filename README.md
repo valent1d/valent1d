@@ -12,13 +12,13 @@
 const valentin = {
     age: 23,
     status: "Freelance Developer",
-    currentFocus: ["Web Development", "Mobile Apps", "Cybersecurity"],
+    currentFocus: ["Web Development", "Dolibarr custom modules", "Mobile Apps", "Cybersecurity"],
     mindset: "Continuous learner, always curious 🧠",
     location: "France 🇫🇷"
 };
 ```
 
-> 💼 Freelance @ [VLTN](https://vltn.sh) <br/> 💼 Project Support Consultant @ [Progiseize](https://progiseize.fr)
+> 💼 Freelance @ <a href="https://vltn.sh" target="_blank">VLTN</a> <br/> 💼 Project Support Consultant @ <a href="https://progiseize.fr" target="_blank">Progiseize</a>
 
 ---
 
@@ -27,7 +27,7 @@ const valentin = {
 <div align="center">
 
 <a href="https://tryhackme.com/p/valent1d" target="_blank">
-  <img style="width:70%" src="./assets/tryhackme-badge.png" alt="THM Badge" />
+  <img style="width:50%" src="./assets/tryhackme-badge.png" alt="THM Badge" />
 </a>
 
 **🔥 Top 8% on TryHackMe -- Follow me :) 🔥**
@@ -65,6 +65,12 @@ const valentin = {
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+### Other things I love
+![Dolibarr](https://img.shields.io/badge/-Dolibarr-263C5C?style=flat-square&logo=dolibarr&logoColor=white)
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Authentik](https://img.shields.io/badge/-Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
@@ -75,7 +81,7 @@ const valentin = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valent1d&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=valent1d&theme=tokyonight" alt="GitHub Streak"/>
 
 </div>
 
@@ -93,24 +99,40 @@ const valentin = {
 
 ## 🚀 Featured Projects
 
+```console
+valent1d@github:~$ ls -la ~/projects/ready-to-pin/
+total 0
+drwxr-xr-x   2  valent1d  dev    64  Nov 23  2025  .
+drwxr-xr-x  15  valent1d  dev   480  Nov 23  2025  ..
+
+valent1d@github:~$ cat status.txt
+[!] Repository is cooking... 🍳
+[!] Epic projects are brewing... ☕
+[!] Quality over speed, always! 🎯
+
+         |\      _,,,---,,_
+    ZZzz /,`.-'`'    -.  ;-;;,_
+        |,4-  ) )-,_. ,\ (  `'-'
+       '---''(_/--'  `-'\_)  
+       
+    "Good code takes time... 💤"
+
+valent1d@github:~$ ./check-progress.sh
+
+Progress: [████████░░░░░░░░░░░░] 42%
+
+✓ Mastering: Web Dev, Mobile Dev, Cybersecurity
+✓ Shipping: Freelance projects (private repos)
+✓ Planning: Open-source contributions
+⚡ Next: Pinning awesome public projects here!
+
+valent1d@github:~$ echo "Stay tuned! 🚀"
+Stay tuned! 🚀
+```
+
 <div align="center">
 
-```
-       _._     _,-'""`-._
-           (,-.`._,'(       |\`-/|
-               `-.-' \ )-`( , o o)
-                     `-    \`_`"'-
-                   
-            🚧 Projects loading... 🚧
-            
-            while(coding) {
-                awesomeProjects++;
-            }
-            
-            // Coming soon to a repository near you
-```
-
-**Stay tuned! Epic stuff is brewing** ☕️💻
+**💡 Building in stealth mode • Big things coming soon™**
 
 </div>
 
@@ -122,7 +144,9 @@ const valentin = {
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vadenis)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@vltn.sh)
-[![VLTN](https://img.shields.io/badge/-VLTN-FF5732?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTAwIiB6b29tQW5kUGFuPSJtYWduaWZ5IiB2aWV3Qm94PSIwIDAgMzc1IDM3NC45OTk5OTEiIGhlaWdodD0iNTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiB2ZXJzaW9uPSIxLjAiPjxkZWZzPjxjbGlwUGF0aCBpZD0iMzdmZTIwODIyOSI+PHBhdGggZD0iTSAyMy40OTIxODggMTg0Ljk5MjE4OCBMIDE4OS4yNDIxODggMTg0Ljk5MjE4OCBMIDE4OS4yNDIxODggMzUwLjc0MjE4OCBMIDIzLjQ5MjE4OCAzNTAuNzQyMTg4IFogTSAyMy40OTIxODggMTg0Ljk5MjE4OCAiIGNsaXAtcnVsZT0ibm9uemVybyIvPjwvY2xpcFBhdGg+PGNsaXBQYXRoIGlkPSIxZDQ5YTNmYjZiIj48cGF0aCBkPSJNIDAuODQzNzUgMS4zNDM3NSBMIDE2Ni4yNDIxODggMS4zNDM3NSBMIDE2Ni4yNDIxODggMTY2Ljc0MjE4OCBMIDAuODQzNzUgMTY2Ljc0MjE4OCBaIE0gMC44NDM3NSAxLjM0Mzc1ICIgY2xpcC1ydWxlPSJub256ZXJvIi8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9IjQ1NGM3MjVhOGIiPjxyZWN0IHg9IjAiIHdpZHRoPSIxNjciIHk9IjAiIGhlaWdodD0iMTY3Ii8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImVhZjYxZmRlZDgiPjxwYXRoIGQ9Ik0gMTg1Ljc1IDI0LjI1IEwgMzUxLjUgMjQuMjUgTCAzNTEuNSAxOTAgTCAxODUuNzUgMTkwIFogTSAxODUuNzUgMjQuMjUgIiBjbGlwLXJ1bGU9Im5vbnplcm8iLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iYzg0YTFjNWRjZCI+PHBhdGggZD0iTSAwLjc1IDAuMjUgTCAxNjYuMTQ4NDM4IDAuMjUgTCAxNjYuMTQ4NDM4IDE2NS42NDg0MzggTCAwLjc1IDE2NS42NDg0MzggWiBNIDAuNzUgMC4yNSAiIGNsaXAtcnVsZT0ibm9uemVybyIvPjwvY2xpcFBhdGg+PGNsaXBQYXRoIGlkPSJiYWI2MjlhNDliIj48cmVjdCB4PSIwIiB3aWR0aD0iMTY3IiB5PSIwIiBoZWlnaHQ9IjE2NiIvPjwvY2xpcFBhdGg+PGNsaXBQYXRoIGlkPSIwMTNlYWM0YjJjIj48cGF0aCBkPSJNIDIzLjQ5MjE4OCAyMy44OTg0MzggTCAxODkuMjQyMTg4IDIzLjg5ODQzOCBMIDE4OS4yNDIxODggMTg5LjY0ODQzOCBMIDIzLjQ5MjE4OCAxODkuNjQ4NDM4IFogTSAyMy40OTIxODggMjMuODk4NDM4ICIgY2xpcC1ydWxlPSJub256ZXJvIi8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9IjJhMmExNzdmYzYiPjxwYXRoIGQ9Ik0gMC40OTIxODggMS4yNSBMIDE2Ni4yNDIxODggMS4yNSBMIDE2Ni4yNDIxODggMTY2LjY0ODQzOCBMIDAuNDkyMTg4IDE2Ni42NDg0MzggWiBNIDAuNDkyMTg4IDEuMjUgIiBjbGlwLXJ1bGU9Im5vbnplcm8iLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iZjQ1MmQzZTM2YyI+PHJlY3QgeD0iMCIgd2lkdGg9IjE2NyIgeT0iMCIgaGVpZ2h0PSIxNjciLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iMzM2NmJhMzUyZiI+PHBhdGggZD0iTSAxODUuNzUgMTg1LjM0Mzc1IEwgMzUxLjUgMTg1LjM0Mzc1IEwgMzUxLjUgMzUxLjA5Mzc1IEwgMTg1Ljc1IDM1MS4wOTM3NSBaIE0gMTg1Ljc1IDE4NS4zNDM3NSAiIGNsaXAtcnVsZT0ibm9uemVybyIvPjwvY2xpcFBhdGg+PGNsaXBQYXRoIGlkPSI0NjcwZDVmM2JhIj48cGF0aCBkPSJNIDAuNzUgMC4zNDM3NSBMIDE2Ni41IDAuMzQzNzUgTCAxNjYuNSAxNjUuNzQyMTg4IEwgMC43NSAxNjUuNzQyMTg4IFogTSAwLjc1IDAuMzQzNzUgIiBjbGlwLXJ1bGU9Im5vbnplcm8iLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iNjNmNWU3ZmM5ZSI+PHJlY3QgeD0iMCIgd2lkdGg9IjE2NyIgeT0iMCIgaGVpZ2h0PSIxNjciLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBjbGlwLXBhdGg9InVybCgjMzdmZTIwODIyOSkiPjxnIHRyYW5zZm9ybT0ibWF0cml4KDEsIDAsIDAsIDEsIDIzLCAxODQpIj48ZyBjbGlwLXBhdGg9InVybCgjNDU0YzcyNWE4YikiPjxnIGNsaXAtcGF0aD0idXJsKCMxZDQ5YTNmYjZiKSI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTSAwLjQ5MjE4OCAxNjcuMDkzNzUgQyA5Mi4yMzA0NjkgMTY3LjA5Mzc1IDE2Ni41OTM3NSA5Mi43MzA0NjkgMTY2LjU5Mzc1IDAuOTk2MDk0IEwgMC40OTIxODggMC45OTYwOTQgWiBNIDAuNDkyMTg4IDE2Ny4wOTM3NSAiIGZpbGwtb3BhY2l0eT0iMSIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9nPjwvZz48L2c+PC9nPjxnIGNsaXAtcGF0aD0idXJsKCNlYWY2MWZkZWQ4KSI+PGcgdHJhbnNmb3JtPSJtYXRyaXgoMSwgMCwgMCwgMSwgMTg1LCAyNCkiPjxnIGNsaXAtcGF0aD0idXJsKCNiYWI2MjlhNDliKSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2M4NGExYzVkY2QpIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNIDE2Ni41IC0wLjEwMTU2MiBDIDc0Ljc2NTYyNSAtMC4xMDE1NjIgMC4zOTg0MzggNzQuMjY1NjI1IDAuMzk4NDM4IDE2NiBMIDE2Ni41IDE2NiBaIE0gMTY2LjUgLTAuMTAxNTYyICIgZmlsbC1vcGFjaXR5PSIxIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L2c+PC9nPjwvZz48L2c+PGcgY2xpcC1wYXRoPSJ1cmwoIzAxM2VhYzRiMmMpIj48ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLCAwLCAwLCAxLCAyMywgMjMpIj48ZyBjbGlwLXBhdGg9InVybCgjZjQ1MmQzZTM2YykiPjxnIGNsaXAtcGF0aD0idXJsKCMyYTJhMTc3ZmM2KSI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTSAxNjYuNTkzNzUgMTY3IEMgNzQuODU5Mzc1IDE2NyAwLjQ5MjE4OCA5Mi42MzI4MTIgMC40OTIxODggMC44OTg0MzggTCAxNjYuNTkzNzUgMC44OTg0MzggWiBNIDE2Ni41OTM3NSAxNjcgIiBmaWxsLW9wYWNpdHk9IjEiIGZpbGwtcnVsZT0ibm9uemVybyIvPjwvZz48L2c+PC9nPjwvZz48ZyBjbGlwLXBhdGg9InVybCgjMzM2NmJhMzUyZikiPjxnIHRyYW5zZm9ybT0ibWF0cml4KDEsIDAsIDAsIDEsIDE4NSwgMTg1KSI+PGcgY2xpcC1wYXRoPSJ1cmwoIzYzZjVlN2ZjOWUpIj48ZyBjbGlwLXBhdGg9InVybCgjNDY3MGQ1ZjNiYSkiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0gMC4zOTg0MzggLTAuMDA3ODEyNSBDIDkyLjEzMjgxMiAtMC4wMDc4MTI1IDE2Ni41IDc0LjM1OTM3NSAxNjYuNSAxNjYuMDkzNzUgTCAwLjM5ODQzOCAxNjYuMDkzNzUgWiBNIDAuMzk4NDM4IC0wLjAwNzgxMjUgIiBmaWxsLW9wYWNpdHk9IjEiIGZpbGwtcnVsZT0ibm9uemVybyIvPjwvZz48L2c+PC9nPjwvZz48L3N2Zz4=&logoColor=white)](https://vltn.sh)
+<a href="https://vltn.sh" target="_blank">
+  <img src="https://img.shields.io/badge/-VLTN-FF5732?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAQAAACQEyoRAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+kLFxEWNGdJNvgAAAMvelRYdFJhdyBwcm9maWxlIHR5cGUgeG1wAABIiaVWXdajMAh9ZxWzhAQI6HKsiW9zzjzO8ucStWrr1/lrj1YLgQsXSOjn9x/0DZ+cRyeZZfHBk2UTe1hx5WRsxdxGa1LZ2/J4PBZ2/D+axj/FpWiVpNWTCnQHG0kHnxwLi/ikrajhFwZFsIhdFmlpktkHmXwwLLQazixzinebrbmEjMID0KgtgUOmVfBUB5LNFEPHZCqsqvZiBjKCMEwNrvgmmbB08f7h5tDiZgsUnRfJMsYXT0kYd8a9rg64kosjF+HdB67hAfKOIk2cDiSAgdQgcLbRE/RHxNCAbJMTwmL4RCCBjD2WX4Fr7mhhwPgdfXfdLNOhFMY2Pw0MLlahhuxBEWFxk7RnLFzJfHEwkXbVXXwOpoBYz4fkLAPa8QgriocQDRYUdUQO1qJKuGcjwmUgKweK3dwVi0beCnKEgAoKrSHLYEMKV/CTcWcRmXm5W3as2l3QrY+CWlcdu/mo+CyOZ5UC8qsgE4Lqx5PKEGThCQXJMiCNFbEyqqT09sjA5qjuBL7fMZ3cHCHTDR7U14amRKi4LLAgYMXl4S6cX13QdemnpKIPQQACHZ7URF43c/RZ8Uw9L2fyzwUTErqrmZu8nKrtbPJoHDp3zt932NFg9FWHQVFu5kLqZTofMyH0cEdBzqAb0ycmwLOr8rWrutEp8OCaz7k7sEevza4fO6rj7G/Zmnng7CMnattQ4yUsUHjWGZE7wAon1P1cVJEHrn1KS89KjTsWjF+xRy8sXPCF5D6sd+bolZF/ZY4+zUYUpd7N9H0q7ltGDEJaJ+G6ZONMrpxt5mLkxgwdgnhpyHPujLeOsSFHAR2JHL1Pn/tlX1f0Hi79b0XvaaG3vPT99M/ysqUFw81B/+0OsZk7D1aEFfMB3xmVJ1GcbrF181D6zG5RoaHuzKjj7hFdho05qxvmgpZScBp44HSAg0ScIEJXKnYMaOiEVwROhlGPjSLOGgi2NwHi7h69v4UTnFJwRcNY7AiYkY/oAmihbTyG+Ew9xo9h/J6xIILWs8ahtp42nv++HWdWyfuZinoNdRKRo34eol+vsDfHyDPZXAAAAuJJREFUSMe1l0tIVFEYx3935qalMzplkBJpGoIUtZFIqkWuSsSi2lXqqkUPSCqi2mcZIVhSmyBEoZUtRHARtIhKF0JEYUiSTRAjGDXOQ63G+Vrcec+9c89V/GYx9/E/v/M/33leWLfQQJwXyQsxUekAlFCLW4Ea5HtBaAk+POjMskQC3cAwZbb2dYY5T9wEq1FNE4fYy3a8LHKKD0l0nHI2K7j2mvjVOcBZjlKTanfIoOqJhoaV0JJ3sYcuTueUTdUJ8IsA1Qro7LJFdHCLOiuVC4Awnx2DffTQbw1OooW3DsdgBY/ooriQxJX4f0PAAdjLA87ZiVyJKTDDK2Wwmxt02suSrmMMElFEt3HFdEpaoOE1YwrYOFXczh7fBdEawDK9zCmU6GC/WuNcGdcT9LJi47lGJctZ6ETqHjNUUC0co8EhOgGPcpPRAuoSjqt0oBF6zv0cF/jHSQv1TrapgvPaKwhSIQ9lScwiKjGxj6A0iiV8g7TLlALEDi3mvzrplq9rQRt7o4ae1z0ruKinjVb2Ue4orxGamUzujbvoxmOy9sUR4kQoy6lYCDDDAlrWvDBCI0IwPUJ8tOBx4EvDg5t3jDJNPG/DFmLprmuU4Kqy+k3uSp15X60VLSIyJZ1SlIHLGXBq6JhETZ8vS79szYfnd4N1zPPF9Hkxl3jKDsPm6tDv8Vu+O8ETqrIfqaOFEaIF3rfSQ2mmb3X0NGM2q94ZLmYmRR09gN9G7eYqTc4TMsmAgqqSa2xM+lZDh7lDQEnbwhEnroU+RhRbV0p7cntRQQ9yP/NUbRPN1BspsUc/5zphZTBUcVjF9V/6ucy8AzDAQWOQ6gUkfu7xjD8AmpOD7G68hKzRv3lBHx+NG+XzgRGVbMlEp0vH8fOSIcaNBT0Lq1aHF186ITF+sswCP/jEBOPMJtufwwqzkNpBrEIjlDpJCmyiljghgixaWRSAasOPTawwy6Jm/rWr9j1rZ34d4z8cUj4qZvouDgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNS0xMS0yM1QxNzoyMjowOCswMDowMIduzqwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjUtMTEtMjNUMTc6MjI6MDgrMDA6MDD2M3YQAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI1LTExLTIzVDE3OjIyOjUyKzAwOjAwTbYG5QAAABl0RVh0cGRmOkF1dGhvcgBWYWxlbnRpbiBEZW5pc7csly4AAABcdEVYdHhtcDpDcmVhdG9yVG9vbABDYW52YSAoUmVuZGVyZXIpIGRvYz1EQUdqU0VVa2tTdyB1c2VyPVVBR0o2WW9tMVJ3IGJyYW5kPUNhZ2FuZXJrZWtsaSdzIENsYXNz13vP9wAAAABJRU5ErkJggg==" alt="VLTN"/>
+</a>
 
 </div>
 
