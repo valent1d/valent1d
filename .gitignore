@@ -8,6 +8,3 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-
-# Omit assets/ locally
-assets/
