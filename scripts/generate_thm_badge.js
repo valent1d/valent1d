@@ -73,7 +73,7 @@ async function generateBadgeScreenshot() {
         const screenshotPath = path.join(assetsDir, 'tryhackme-badge.png');
         await badgeElement.screenshot({
             path: screenshotPath,
-            omitBackground: false
+            omitBackground: true
         });
         
         console.log('✅ Badge screenshot saved successfully!');
