@@ -11,7 +11,7 @@
 ```javascript
 const valentin = {
     age: 23,
-    status: "Freelance Developer",
+    status: "Junior Freelance Developer",
     currentFocus: ["Web Development", "Dolibarr custom modules", "Mobile Apps", "Cybersecurity"],
     mindset: "Continuous learner, always curious 🧠",
     location: "France 🇫🇷"
@@ -22,17 +22,17 @@ const valentin = {
 
 ---
 
-## 🎯 Currently Learning Cybersec
+## 🎯 Currently Learning Cybersec for fun ^_^
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/valent1d" target="_blank">
-  <img style="width:50%" src="./assets/tryhackme-badge.png" alt="THM Badge" />
+  <img style="width:40%" src="./assets/tryhackme-badge.png" alt="THM Badge" />
 </a>
 
-**🔥 Top 8% on TryHackMe -- Follow me :) 🔥**
+**🔥 Top 7% on TryHackMe -- Road to top 1% 🤓 🔥**
 
-*Pentesting | Red Teaming | CTF Challenges | Security Research*
+*Actually doing : Pentesting | Red Teaming | CTF Challenges | Security Research*
 
 </div>
 
@@ -41,21 +41,34 @@ const valentin = {
 ## 🛠️ Tech Stack
 
 ### Frontend
+<sub>☕ Some small internal private projects and webapps for fun</sub>
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+💡 My website is made with React + Vite (Frontend) and NodeJS + Express (Backend)
+
 ### Backend
+<sub>☕ Learning PHP for custom dev on [Dolibarr ERP/CRM](https://dolibarr.org) @ [Progiseize](https://progiseize.fr)</sub><br/>
+<sub>Learning Python and NodeJS for fun</sub>
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Database
+<sub>☕ Some cool databases engines and related tools I use a lot</sub>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neontech](https://img.shields.io/badge/-Neon-03E599?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTgiIGhlaWdodD0iNTciIHZpZXdCb3g9IjAgMCA1OCA1NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIDkuODI3NTlDMCA0LjM5OTk2IDQuNDc3MDUgMCA5Ljk5OTc2IDBINDcuOTk4OUM1My41MjE2IDAgNTcuOTk4NiA0LjM5OTk2IDU3Ljk5ODYgOS44Mjc1OVY0MS41ODkzQzU3Ljk5ODYgNDcuMjA0NSA1MC43Njg0IDQ5LjY0MTQgNDcuMjYxOCA0NS4yMDgyTDM2LjI5OTEgMzEuMzQ4OFY0OC4xNTUyQzM2LjI5OTEgNTMuMDQgMzIuMjY5OCA1NyAyNy4yOTkzIDU3SDkuOTk5NzZDNC40NzcwNSA1NyAwIDUyLjYgMCA0Ny4xNzI0VjkuODI3NTlaTTkuOTk5NzYgNy44NjIwN0M4Ljg5NTIyIDcuODYyMDcgNy45OTk4MSA4Ljc0MjA2IDcuOTk5ODEgOS44Mjc1OVY0Ny4xNzI0QzcuOTk5ODEgNDguMjU3OSA4Ljg5NTIyIDQ5LjEzNzkgOS45OTk3NiA0OS4xMzc5SDI3LjU5OTNDMjguMTUxNiA0OS4xMzc5IDI4LjI5OTMgNDguNjk3OSAyOC4yOTkzIDQ4LjE1NTJWMjUuNjE3OEMyOC4yOTkzIDIwLjAwMjcgMzUuNTI5NSAxNy41NjU2IDM5LjAzNjEgMjEuOTk4OUw0OS45OTg4IDM1Ljg1ODNWOS44Mjc1OUM0OS45OTg4IDguNzQyMDYgNTAuMTAzNCA3Ljg2MjA3IDQ4Ljk5ODggNy44NjIwN0g5Ljk5OTc2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTQ4LjAwMDMgMEM1My41MjMgMCA1OCA0LjM5OTk2IDU4IDkuODI3NTlWNDEuNTg5M0M1OCA0Ny4yMDQ1IDUwLjc2OTkgNDkuNjQxNCA0Ny4yNjMzIDQ1LjIwODJMMzYuMzAwNiAzMS4zNDg4VjQ4LjE1NTJDMzYuMzAwNiA1My4wNCAzMi4yNzEyIDU3IDI3LjMwMDggNTdDMjcuODUzMSA1NyAyOC4zMDA4IDU2LjU2IDI4LjMwMDggNTYuMDE3MlYyNS42MTc4QzI4LjMwMDggMjAuMDAyNyAzNS41MzA5IDE3LjU2NTYgMzkuMDM3NSAyMS45OTg5TDUwLjAwMDIgMzUuODU4M1YxLjk2NTUyQzUwLjAwMDIgMC44Nzk5OTIgNDkuMTA0OCAwIDQ4LjAwMDMgMFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white)
+![Supabase](https://img.shields.io/badge/-supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Mobile
+<sub>☕ Learning basics of Apple native apps developpements for fun</sub>
+
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white)
 
@@ -67,23 +80,18 @@ const valentin = {
 
 ### Other things I love
 ![Dolibarr](https://img.shields.io/badge/-Dolibarr-263C5C?style=flat-square&logo=dolibarr&logoColor=white)
-![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Authentik](https://img.shields.io/badge/-Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![1Password](https://img.shields.io/badge/-1Password-3B66BC?style=flat-square&logo=1password&logoColor=white)
+![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valent1d&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=valent1d&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
+| ![Valent1d's GitHub stats](https://valent1d-github-stats.vercel.app/api/top-langs/?username=valent1d&layout=compact&langs_count=8&theme=tokyonight) | ![Valent1d's GitHub stats](https://valent1d-github-stats.vercel.app/api?username=valent1d&show_icons=true&show=prs_merged,prs_merged_percentage&theme=tokyonight) |
+|:--:|:--:|
 
 ---
 
