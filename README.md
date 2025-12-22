@@ -30,7 +30,7 @@ const valentin = {
   <img style="width:40%" src="./assets/tryhackme-badge.png" alt="THM Badge" />
 </a>
 
-**🔥 Top 7% on TryHackMe -- Road to top 1% 🤓 🔥**
+**🔥 Top 5% on TryHackMe -- Road to top 1% 🤓 🔥**
 
 *Actually doing : Pentesting | Red Teaming | CTF Challenges | Security Research*
 
