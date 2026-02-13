@@ -18,7 +18,7 @@ const valentin = {
 };
 ```
 
-> 💼 Freelance @ <a href="https://vltn.sh" target="_blank">VLTN</a> <br/> 💼 Project Support Consultant @ <a href="https://progiseize.fr" target="_blank">Progiseize</a>
+> 💼 Freelance @ <a href="https://vltn.sh" target="_blank">VLTN</a> <br/> 💼 Sysadmin @ <a href="https://progiseize.fr" target="_blank">Progiseize</a>
 
 ---
 
