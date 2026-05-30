@@ -10,7 +10,7 @@
 
 ```javascript
 const valentin = {
-    age: 23,
+    age: 24,
     status: "Junior Freelance Developer",
     currentFocus: ["Web Development", "Dolibarr custom modules", "Mobile Apps", "Cybersecurity"],
     mindset: "Continuous learner, always curious 🧠",
