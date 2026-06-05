@@ -18,23 +18,7 @@ const valentin = {
 };
 ```
 
-> 💼 Freelance @ <a href="https://vltn.sh" target="_blank">VLTN</a> <br/> 💼 Sysadmin @ <a href="https://progiseize.fr" target="_blank">Progiseize</a>
-
----
-
-## 🎯 Currently Learning Cybersec for fun ^_^
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/valent1d" target="_blank">
-  <img style="width:40%" src="./assets/tryhackme-badge.png" alt="THM Badge" />
-</a>
-
-**🔥 Top 4% on TryHackMe -- Road to top 1% 🤓 🔥**
-
-*Actually doing : Pentesting | Red Teaming | CTF Challenges | Security Research*
-
-</div>
+> 💼 Freelance @ <a href="https://vltn.sh" target="_blank">VLTN</a> <br/> 💼 CSM @ <a href="https://progiseize.fr" target="_blank">Progiseize</a>
 
 ---
 
@@ -90,8 +74,16 @@ const valentin = {
 
 ## 📊 GitHub Stats
 
-| ![Valent1d's GitHub stats](https://valent1d-github-stats.vercel.app/api/top-langs/?username=valent1d&layout=compact&langs_count=8&theme=tokyonight) | ![Valent1d's GitHub stats](https://valent1d-github-stats.vercel.app/api?username=valent1d&show_icons=true&show=prs_merged,prs_merged_percentage&theme=tokyonight) |
-|:--:|:--:|
+<div align="center">
+
+<img height="170" src="https://valent1d-github-stats.vercel.app/api?username=valent1d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://valent1d-github-stats.vercel.app/api/top-langs/?username=valent1d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=valent1d&bg_color=1a1b27&color=f7768e&line=f7768e&point=bb9af7&area=true&area_color=f7768e&hide_border=true" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
